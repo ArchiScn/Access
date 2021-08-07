@@ -7,4 +7,4 @@ The detailed description and files are presented in repositories:
 
 [Simulated images](https://github.com/ArchiScn/Simulated_images) used in pre-training of CNN models. This repository contains three sets of simulated images used for pre-training of CNN.
 
-[Models](https://github.com/ArchiScn/Simulated_images) contains some formed CNN models.
+[Models](https://github.com/ArchiScn/Models) contains some formed CNN models.
