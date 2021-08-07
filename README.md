@@ -3,7 +3,7 @@ This repository is used as access point to three other repositories which contai
 
 The detailed description and files are presented in repositories:
 
-Collected images
+[Collected images](https://github.com/ArchiScn/Collected_images)
 
 Simulated images used in pre-training of CNN models
 
