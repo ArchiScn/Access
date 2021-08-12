@@ -3,7 +3,7 @@ This repository is used as an access point to three other repositories which con
 
 The detailed description and files are presented in repositories:
 
-1. Access. It is this repository which joined all repositories and provide access to all repositories in one place.
+1. [Access](https://github.com/ArchiScn/Access). It is this repository which joined all repositories and provide access to all repositories in one place.
 
 1. [Collected images](https://github.com/ArchiScn/Collected_images). This repository contains images from The Museum of London antiquarian collection.
 
