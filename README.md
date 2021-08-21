@@ -1,4 +1,4 @@
-# Access
+# Arch-I-Scan Data Repository
 This repository is used as an access point to three other repositories which contain the following material used in the paper "Learning from scarce information: using synthetic data to classify Roman fine ware pottery". 
 
 The detailed description and files are presented in repositories:
