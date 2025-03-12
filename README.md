@@ -11,9 +11,9 @@ All files related to **Main sherd project** can be found in [Sherd classificatio
 
 Files related to **pilot study of whole vessels** can be found in three repositories. Spliting data into three repositories are caused by tecnical restrictions on repository size. There are three repositories:
 
-1. [Pilot_whole_vessels_Collected images](https://github.com/Pilot_whole_vessels_ArchiScn/Collected_images). This repository contains images from The Museum of London antiquarian collection.
+1. [Pilot_whole_vessels_Collected images](https://github.com/ArchiScn/Pilot_whole_vessels_Collected_images). This repository contains images from The Museum of London antiquarian collection.
 
-1. [Pilot_whole_vessels_Simulated images](https://github.com/Pilot_whole_vessels_ArchiScn/Simulated_images). This repository contains three sets of simulated images used for pre-training of CNN.
+1. [Pilot_whole_vessels_Simulated images](https://github.com/ArchiScn/Pilot_whole_vessels_Simulated_images). This repository contains three sets of simulated images used for pre-training of CNN.
 
 1. [Pilot_whole_vessels_Models](https://github.com/ArchiScn/Pilot_whole_vessels_Models) contains some formed CNN models.
 
