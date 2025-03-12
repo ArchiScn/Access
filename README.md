@@ -18,8 +18,13 @@ Files related to **pilot study of whole vessels** can be found in three reposito
 1. [Models](https://github.com/ArchiScn/Models) contains some formed CNN models.
 
 ## Papers published in Arch-I-Scan project
-1. Núñez Jareño SJ, van Helden DP, Mirkes EM, Tyukin IY, Allison PM. Learning from scarce information: using synthetic data to classify Roman fine ware pottery. Entropy. 2021 Aug 31;23(9):1140. [DOI:10.3390/e23091140](https://doi.org/10.3390/e23091140)
-3. D., P. van Helden, E, Mirkes, I. Tyukin and P. Allison. The Arch-I-Scan Project: Artificial Intelligence and 3D Simulation for Developing New Approaches to Roman Foodways. Journal of Computer Applications in Archaeology, 5(1) 2022, 78–95. https://journal.caa-international.org/articles/10.5334/jcaa.92/
+1. Núñez Jareño SJ, van Helden DP, Mirkes EM, Tyukin IY, Allison PM. Learning from scarce information: using synthetic data to classify Roman fine ware pottery. *Entropy*. 23(9), 2021. [DOI:10.3390/e23091140](https://doi.org/10.3390/e23091140)
+2. van Helden DP, Mirkes E, Tyukin I and Allison P. The Arch-I-Scan Project: Artificial Intelligence and 3D Simulation for Developing New Approaches to Roman Foodways. *Journal of Computer Applications in Archaeology*, 5(1) 2022, 78–95. [DOI:10.5334/jcaa.92](https://doi.org/10.5334/jcaa.92)
+3. van Helden DP and Allison PM. Quantifying pottery: a case study of terra sigillata towards analysing consumption behaviour *American Journal of Archaeology* (in press)
+
+
+
+
 
 ## Citation of Arch-I-Scan project data
 Please cite this dataset as<br>
