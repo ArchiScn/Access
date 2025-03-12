@@ -6,8 +6,8 @@ It comprises two subprojects:
 
 The authors would like to thank the Arts and Humanities Research Council (UK) for funding the Arch-I-Scan Project (Grant number AH/T001003/1) and the partner organisations for access to their terra sigillata collections.
  
-
-
+## Structure of repositories
+All files related to **Main sherd project** can be found in [Sherd classification](https://github.com/ArchiScn/Sherd_classification) repository
 
 
 This repository is used as an access point to three other repositories which contain the following material used in the paper "Learning from scarce information: using synthetic data to classify Roman fine ware pottery". 
