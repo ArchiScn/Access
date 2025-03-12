@@ -11,11 +11,11 @@ All files related to **Main sherd project** can be found in [Sherd classificatio
 
 Files related to **pilot study of whole vessels** can be found in three repositories. Spliting data into three repositories are caused by tecnical restrictions on repository size. There are three repositories:
 
-1. [Collected images](https://github.com/ArchiScn/Collected_images). This repository contains images from The Museum of London antiquarian collection.
+1. [Pilot_whole_vessels_Collected images](https://github.com/Pilot_whole_vessels_ArchiScn/Collected_images). This repository contains images from The Museum of London antiquarian collection.
 
-1. [Simulated images](https://github.com/ArchiScn/Simulated_images). This repository contains three sets of simulated images used for pre-training of CNN.
+1. [Pilot_whole_vessels_Simulated images](https://github.com/Pilot_whole_vessels_ArchiScn/Simulated_images). This repository contains three sets of simulated images used for pre-training of CNN.
 
-1. [Models](https://github.com/ArchiScn/Models) contains some formed CNN models.
+1. [Pilot_whole_vessels_Models](https://github.com/ArchiScn/Pilot_whole_vessels_Models) contains some formed CNN models.
 
 ## Papers published in Arch-I-Scan project
 1. Núñez Jareño SJ, van Helden DP, Mirkes EM, Tyukin IY, Allison PM. Learning from scarce information: using synthetic data to classify Roman fine ware pottery. *Entropy*. 23(9), 2021. [DOI:10.3390/e23091140](https://doi.org/10.3390/e23091140)
