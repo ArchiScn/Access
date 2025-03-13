@@ -23,7 +23,8 @@ Files related to **pilot study of whole vessels** can be found in three reposito
 2. van Helden DP, Mirkes E, Tyukin I and Allison P. The Arch-I-Scan Project: Artificial Intelligence and 3D Simulation for Developing New Approaches to Roman Foodways. *Journal of Computer Applications in Archaeology*, 5(1) 2022, 78–95. [DOI:10.5334/jcaa.92](https://doi.org/10.5334/jcaa.92)
 3. Tyukin IY, Tyukina T, van Helden DP, Zheng Z, Mirkes EM, Sutton OJ, Zhou Q, Gorban AN, Allison P. Coping with AI errors with provable guarantees. *Information Sciences*. 678, 2024. [DOI:10.1016/j.ins.2024.120856](https://doi.org/10.1016/j.ins.2024.120856)
 4. Tyukin IY, Tyukina T, van Helden D, Zheng Z, Mirkes EM, Sutton OJ, Zhou Q, Gorban AN, Allison P. Weakly Supervised Learners for Correction of AI Errors with Provable Performance Guarantees. *In 2024 International Joint Conference on Neural Networks (IJCNN) IEEE*. 2024. [DOI:10.1109/ijcnn60899.2024.10650338](https://doi.org/10.1109/ijcnn60899.2024.10650338)
-5. van Helden DP and Allison PM. Quantifying pottery: a case study of terra sigillata towards analysing consumption behaviour *American Journal of Archaeology* (in press)
+5. Tyukin I, Sofeikov K, Levesley J, Gorban AN, Allison P, Cooper NJ. Exploring automated pottery identification [Arch-I-Scan]. Internet Archaeology. 50, 2018. [DOI:10.11141/ia.50.11](https://doi.org/10.11141/ia.50.11)
+6. van Helden DP and Allison PM. Quantifying pottery: a case study of terra sigillata towards analysing consumption behaviour *American Journal of Archaeology* (in press)
 
 ## Citation of Arch-I-Scan project data
 Please cite this dataset as<br>
