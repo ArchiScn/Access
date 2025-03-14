@@ -8,7 +8,7 @@ It comprises material from two sub-projects:
 The authors would like to thank the Arts and Humanities Research Council (UK) for funding the Arch-I-Scan Project (Grant number AH/T001003/1) and the partner organisations for access to their terra sigillata collections.
  
 ## Structure of repositories
-All files related to **Main sherd project** can be found in [Sherd classification](https://github.com/ArchiScn/Sherd_classification) repository. This repository includes all CNN models, code to train these models and code to generate artificial data for model training.
+All files related to **Main sherd project** can be found in [Sherd classification Code and Models](https://github.com/ArchiScn/Sherd_classification_Code_and_Models) repository. This repository includes all CNN models, code to train these models and code to generate artificial data for model training.
 
 Files related to **pilot study of whole vessels** can be found in three repositories. Spliting data into three repositories are caused by tecnical restrictions on repository size. There are three repositories:
 
