@@ -8,15 +8,17 @@ It comprises material from two sub-projects:
 The authors would like to thank the Arts and Humanities Research Council (UK) for funding the Arch-I-Scan Project (Grant number AH/T001003/1) and the partner organisations for access to their terra sigillata collections.
  
 ## Structure of repositories
-All files related to **Main sherd project** can be found in [Sherd classification Code and Models](https://github.com/ArchiScn/Sherd_classification_Code_and_Models) repository. This repository includes all CNN models, code to train these models and code to generate artificial data for model training.
+All files related to the **main sherd project** can be found in [Sherd classification Code and Models](https://github.com/ArchiScn/Sherd_classification_Code_and_Models) repository.  This repository includes all the CNN models, the code to train these models, and the code to generate artificial data for model training.
 
-Files related to **pilot study of whole vessels** can be found in three repositories. Spliting data into three repositories are caused by tecnical restrictions on repository size. There are three repositories:
+Files related to **pilot study of using whole vessels** can be found in other three repositories:
+
+1. [Pilot_whole_vessels_Simulated images](https://github.com/ArchiScn/Pilot_whole_vessels_Simulated_images). This repository contains three sets of simulated images used for pre-training of CNN
 
 1. [Pilot_whole_vessels_Collected images](https://github.com/ArchiScn/Pilot_whole_vessels_Collected_images). This repository contains images from The Museum of London antiquarian collection.
 
-1. [Pilot_whole_vessels_Simulated images](https://github.com/ArchiScn/Pilot_whole_vessels_Simulated_images). This repository contains three sets of simulated images used for pre-training of CNN.
-
 1. [Pilot_whole_vessels_Models](https://github.com/ArchiScn/Pilot_whole_vessels_Models) contains some formed CNN models.
+
+The data files for both sub-projects are available on the Archaeology Data Service  - ‘The data archive of the Arch-I-Scan Project’. [***Link will be added later***]
 
 ## Papers published in Arch-I-Scan project
 1. Núñez Jareño SJ, van Helden DP, Mirkes EM, Tyukin IY, Allison PM. Learning from scarce information: using synthetic data to classify Roman fine ware pottery. *Entropy*. 23(9), 2021. [DOI:10.3390/e23091140](https://doi.org/10.3390/e23091140)
