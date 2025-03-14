@@ -20,7 +20,7 @@ Files related to **pilot study of using whole vessels** can be found in other th
 
 The data files for both sub-projects are available on the Archaeology Data Service  - ‘The data archive of the Arch-I-Scan Project’. [***Link will be added later***]
 
-## Papers published in Arch-I-Scan project
+## Publications from the Arch-I-Scan Project
 1. Núñez Jareño SJ, van Helden DP, Mirkes EM, Tyukin IY, Allison PM. Learning from scarce information: using synthetic data to classify Roman fine ware pottery. *Entropy*. 23(9), 2021. [DOI:10.3390/e23091140](https://doi.org/10.3390/e23091140)
 2. van Helden DP, Mirkes E, Tyukin I and Allison P. The Arch-I-Scan Project: Artificial Intelligence and 3D Simulation for Developing New Approaches to Roman Foodways. *Journal of Computer Applications in Archaeology*, 5(1) 2022, 78–95. [DOI:10.5334/jcaa.92](https://doi.org/10.5334/jcaa.92)
 3. Tyukin IY, Tyukina T, van Helden DP, Zheng Z, Mirkes EM, Sutton OJ, Zhou Q, Gorban AN, Allison P. Coping with AI errors with provable guarantees. *Information Sciences*. 678, 2024. [DOI:10.1016/j.ins.2024.120856](https://doi.org/10.1016/j.ins.2024.120856)
@@ -29,6 +29,6 @@ The data files for both sub-projects are available on the Archaeology Data Servi
 6. Allison PM., van Helden DP, Tyukin I, Zheng Z. and Tyukina T. The arch-I-scan project: Developing an AI system for identifying and recording roman tablewares. Teaching History, 57(3), 21–26, 2023. Available online [https://search.informit.org/doi/10.3316/informit.322953937064564)](https://search.informit.org/doi/10.3316/informit.322953937064564)
 7. van Helden DP and Allison PM. Quantifying pottery: a case study of terra sigillata towards analysing consumption behaviour *American Journal of Archaeology* (in press)
 
-## Citation of Arch-I-Scan project data
+## Citations for the Arch-I-Scan Project Repositories
 Please cite this dataset as<br>
-Núñez Jareño, S.J.; van Helden, D.P.; Mirkes, E.M.; Zheng Z.; Tyukina, T.A.; Tyukin, I.Y.; Allison, P. Arch-I-Scan data repository. Available online https://github.com/ArchiScn/Access, 2025.
+Núñez Jareño, S.J.; van Helden, D.P.; Mirkes, E.M.; Zheng, Z.; Tyukina, T.A.; Tyukin, I.Y.; Allison, P. The Arch-I-Scan Project repositories. Available online https://github.com/ArchiScn/Access, 2025.
