@@ -4,11 +4,11 @@ It comprises material from two sub-projects:
 1. The pilot study that used complete/near complete vessels in the collections of the London Museum.
 2. The codes and models for the research that used sherds from the collections of MOLA, the Vindolanda Trust, University of Leicester Archaeology Services and the Colchester and Ipswich Museum Services.
 
-## Acknowledgment
-The authors would like to thank the Arts and Humanities Research Council (UK) for funding the Arch-I-Scan Project (Grant number AH/T001003/1) and the partner organisations for access to their terra sigillata collections.
+## Acknowledgements
+The authors would like to thank the Arts and Humanities Research Council (UK) for funding the Arch-I-Scan Project (Grant number AH/T001003/1) and the partner organisations for access to their Roman ceramic collections. We are also very grateful to all the students and other volunteers who took part in the project’s photographing sessions who are too numerous to name here but whose assistance has provided the data to make this project viable.
  
 ## Structure of repositories
-All files related to the **main sherd project** can be found in [Sherd classification Code and Models](https://github.com/ArchiScn/Sherd_classification_Code_and_Models) repository.  This repository includes all the CNN models, the code to train these models, and the code to generate artificial data for model training.
+Files related to the **main sherd project** can be found in [Sherd classification Code and Models](https://github.com/ArchiScn/Sherd_classification_Code_and_Models) repository.  This repository includes all the CNN models, the code to train these models, and the code to generate artificial data for model training.
 
 Files related to **pilot study of using whole vessels** can be found in other three repositories:
 
