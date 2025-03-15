@@ -9,7 +9,6 @@ The authors would like to thank the Arts and Humanities Research Council (UK) fo
  
 ## Structure of repositories
 Files related to the **main sherd project** can be found in [Sherd_classification_Models_and_Code](https://github.com/ArchiScn/Sherd_classification_Models_and_Code) repository.  This repository includes all the CNN models, the code to train these models, and the code to generate artificial data for model training.
-
 Files related to **pilot study of using whole vessels** can be found in other three repositories:
 
 1. [Pilot_whole_vessels_Simulated images](https://github.com/ArchiScn/Pilot_whole_vessels_Simulated_images). This repository contains three sets of simulated images used for pre-training of CNN
@@ -29,6 +28,6 @@ The data files for both sub-projects are available on the Archaeology Data Servi
 6. Allison PM., van Helden DP, Tyukin I, Zheng Z. and Tyukina T. The arch-I-scan project: Developing an AI system for identifying and recording roman tablewares. Teaching History, 57(3), 21–26, 2023. Available online [https://search.informit.org/doi/10.3316/informit.322953937064564)](https://search.informit.org/doi/10.3316/informit.322953937064564)
 7. van Helden DP and Allison PM. Quantifying pottery: a case study of terra sigillata towards analysing consumption behaviour *American Journal of Archaeology* (in press)
 
-## Citations for the Arch-I-Scan Project Repositories
-Please cite this dataset as<br>
-Núñez Jareño, S.J.; van Helden, D.P.; Mirkes, E.M.; Zheng, Z.; Tyukina, T.A.; Tyukin, I.Y.; Allison, P. The Arch-I-Scan Project repositories. Available online https://github.com/ArchiScn/Access, 2025.
+## Citation for the Arch-I-Scan Project Repositories
+Please cite these repositories as<br>
+Mirkes, E.M.; van Helden, D.P.;; Zheng Z.; Tyukina, T.A.; Tyukin, I.Y.; Núñez Jareño, S.J.; Allison, P. The Arch-I-Scan Project repositories. Available online https://github.com/ArchiScn/Access, 2025.
