@@ -17,7 +17,7 @@ Files related to **pilot study of using whole vessels** can be found in other th
 
 1. [Pilot_whole_vessels_Models](https://github.com/ArchiScn/Pilot_whole_vessels_Models) contains some formed CNN models.
 
-The data files for both sub-projects are available on the Archaeology Data Service  - ‘The data archive of the Arch-I-Scan Project’. [***Link will be added later***]
+The data files for the main sherd project and for all the photographs for the pilot study are available on the Archaeology Data Service - ‘The data archive of the Arch-I-Scan Project’. [***Link will be added later***]
 
 ## Publications from the Arch-I-Scan Project
 1. Núñez Jareño SJ, van Helden DP, Mirkes EM, Tyukin IY, Allison PM. Learning from scarce information: using synthetic data to classify Roman fine ware pottery. *Entropy*. 23(9), 2021. [DOI:10.3390/e23091140](https://doi.org/10.3390/e23091140)
